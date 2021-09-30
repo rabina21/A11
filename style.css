@@ -1,31 +1,32 @@
 body{
     background-color: black;
+    margin: 0px;
 }
 .top-wrapper{
     background-color: blue;
     height: 100px;
     width: 100px;
-    margin-left:1200px;
+    margin-left:1265px;
 
 }
 .first-wrapper{
     background-color: red;
     height: 100px;
     width: 100px;
-    margin-left: 1100px;
+    margin-left: 1165px;
 }
 .middle-wrapper{
     background-color: green;
     height: 100px;
     width: 100px;
-    margin-left: 1000px;
+    margin-left: 1065px;
     
 }
 .last-wrapper{
     background-color: yellow;
     height: 100px;
     width: 100px;
-    margin-left:900px;
+    margin-left:965px;
 }
   
     
